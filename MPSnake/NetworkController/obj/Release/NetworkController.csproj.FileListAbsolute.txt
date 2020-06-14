@@ -1,0 +1,6 @@
+C:\Users\Michael\source\repos\01091990\PS7\NetworkController\bin\Release\NetworkController.dll
+C:\Users\Michael\source\repos\01091990\PS7\NetworkController\bin\Release\NetworkController.pdb
+C:\Users\Michael\source\repos\01091990\PS7\NetworkController\obj\Release\NetworkController.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\01091990\PS7\NetworkController\obj\Release\NetworkController.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\01091990\PS7\NetworkController\obj\Release\NetworkController.dll
+C:\Users\Michael\source\repos\01091990\PS7\NetworkController\obj\Release\NetworkController.pdb

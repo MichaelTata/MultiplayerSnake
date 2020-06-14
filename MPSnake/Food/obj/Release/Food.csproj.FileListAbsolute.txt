@@ -1,0 +1,11 @@
+C:\Users\Michael\source\repos\01091990\PS7\Food\bin\Release\Food.dll
+C:\Users\Michael\source\repos\01091990\PS7\Food\bin\Release\Food.pdb
+C:\Users\Michael\source\repos\01091990\PS7\Food\bin\Release\Cell.dll
+C:\Users\Michael\source\repos\01091990\PS7\Food\bin\Release\Newtonsoft.Json.dll
+C:\Users\Michael\source\repos\01091990\PS7\Food\bin\Release\Cell.pdb
+C:\Users\Michael\source\repos\01091990\PS7\Food\bin\Release\Newtonsoft.Json.xml
+C:\Users\Michael\source\repos\01091990\PS7\Food\obj\Release\Food.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\01091990\PS7\Food\obj\Release\Food.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\01091990\PS7\Food\obj\Release\Food.csproj.CopyComplete
+C:\Users\Michael\source\repos\01091990\PS7\Food\obj\Release\Food.dll
+C:\Users\Michael\source\repos\01091990\PS7\Food\obj\Release\Food.pdb

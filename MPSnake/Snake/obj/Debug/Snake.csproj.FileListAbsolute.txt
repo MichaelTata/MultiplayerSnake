@@ -1,0 +1,11 @@
+C:\Users\Michael\source\repos\01091990\PS7\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\01091990\PS7\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\01091990\PS7\Snake\bin\Debug\Snake.dll
+C:\Users\Michael\source\repos\01091990\PS7\Snake\bin\Debug\Snake.pdb
+C:\Users\Michael\source\repos\01091990\PS7\Snake\bin\Debug\Cell.dll
+C:\Users\Michael\source\repos\01091990\PS7\Snake\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Michael\source\repos\01091990\PS7\Snake\bin\Debug\Cell.pdb
+C:\Users\Michael\source\repos\01091990\PS7\Snake\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Michael\source\repos\01091990\PS7\Snake\obj\Debug\Snake.csproj.CopyComplete
+C:\Users\Michael\source\repos\01091990\PS7\Snake\obj\Debug\Snake.dll
+C:\Users\Michael\source\repos\01091990\PS7\Snake\obj\Debug\Snake.pdb

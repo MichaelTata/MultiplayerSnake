@@ -1,0 +1,15 @@
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\bin\Release\SnakeWorld.dll
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\bin\Release\SnakeWorld.pdb
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\bin\Release\Cell.dll
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\bin\Release\Food.dll
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\bin\Release\Snake.dll
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\bin\Release\Newtonsoft.Json.dll
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\bin\Release\Food.pdb
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\bin\Release\Snake.pdb
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\bin\Release\Cell.pdb
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\bin\Release\Newtonsoft.Json.xml
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\obj\Release\SnakeWorld.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\obj\Release\SnakeWorld.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\obj\Release\SnakeWorld.csproj.CopyComplete
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\obj\Release\SnakeWorld.dll
+C:\Users\Michael\source\repos\01091990\PS7\SnakeWorld\obj\Release\SnakeWorld.pdb

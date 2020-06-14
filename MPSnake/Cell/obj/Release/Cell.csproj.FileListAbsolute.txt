@@ -1,0 +1,9 @@
+C:\Users\Michael\source\repos\01091990\PS7\Cell\bin\Release\Cell.dll
+C:\Users\Michael\source\repos\01091990\PS7\Cell\bin\Release\Cell.pdb
+C:\Users\Michael\source\repos\01091990\PS7\Cell\bin\Release\Newtonsoft.Json.dll
+C:\Users\Michael\source\repos\01091990\PS7\Cell\bin\Release\Newtonsoft.Json.xml
+C:\Users\Michael\source\repos\01091990\PS7\Cell\obj\Release\Cell.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\01091990\PS7\Cell\obj\Release\Cell.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\01091990\PS7\Cell\obj\Release\Cell.csproj.CopyComplete
+C:\Users\Michael\source\repos\01091990\PS7\Cell\obj\Release\Cell.dll
+C:\Users\Michael\source\repos\01091990\PS7\Cell\obj\Release\Cell.pdb

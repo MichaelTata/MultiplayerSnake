@@ -1,0 +1,5 @@
+C:\Users\Michael\source\repos\01091990\PS7\NetworkController\bin\Debug\NetworkController.dll
+C:\Users\Michael\source\repos\01091990\PS7\NetworkController\bin\Debug\NetworkController.pdb
+C:\Users\Michael\source\repos\01091990\PS7\NetworkController\obj\Debug\NetworkController.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\01091990\PS7\NetworkController\obj\Debug\NetworkController.dll
+C:\Users\Michael\source\repos\01091990\PS7\NetworkController\obj\Debug\NetworkController.pdb
